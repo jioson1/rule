@@ -52,7 +52,7 @@
       {"clash_mode": "direct", "outbound": "🎯 全球直连"},
       {"clash_mode": "global", "outbound": "GLOBAL"},
       {"rule_set": "geosite-ai", "outbound": "🧠 AI"},
-      {"domain_suffix": "m-team.cc", "outbound": "🎯 全球直连"},
+      {"domain_suffix": ["m-team.cc","btschool.club"], "outbound": "🎯 全球直连"},
 	  {"rule_set": "Emby", "outbound": "🎥 Emby"},
       {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
       {"rule_set": "geosite-google", "outbound": "🍀 Google"},
@@ -164,4 +164,5 @@
     "timestamp": true
   }
 }
+
 
